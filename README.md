@@ -2,8 +2,8 @@
 
 Data Engineering · Business Intelligence · Microsoft Azure
 
-BSc Information Technology — University of the Free State  
-Computer Science & Business Management  
+BSc Information Technology majoring in Computer Science & Business Management  
+University of the Free State  
 Johannesburg, South Africa
 
 I build things with data. My interest is in the infrastructure layer —
