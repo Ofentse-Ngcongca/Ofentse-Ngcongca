@@ -14,3 +14,11 @@ at the same time.
 
 Currently in my final year, actively building toward a career in
 Data Engineering, Business Intelligence Analysis and Artificial Intelligence within financial  services.
+## 📁 Portfolio
+
+| Area | Repository |
+|------|-----------|
+| 🗄️ Data Engineering | [data-engineering](https://github.com/Ofentse-Ngcongca/data-engineering) |
+| 📊 Business Intelligence | [business-intelligence](https://github.com/Ofentse-Ngcongca/business-intelligence) |
+| 🤖 Artificial Intelligence | [artificial-intelligence](https://github.com/Ofentse-Ngcongca/artificial-intelligence) |
+| 🌐 Web Applications | [web-applications](https://github.com/Ofentse-Ngcongca/web-applications) |
