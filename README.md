@@ -6,7 +6,7 @@ BSc Information Technology majoring in Computer Science & Business Management
 University of the Free State  
 Johannesburg, South Africa
 
-I build things with data. My interest is in the infrastructure layer —
+I build things with data. My interest is in the infrastructure layer
 pipelines, warehouses, and the systems that turn raw data into decisions
 that actually matter. I come from a Computer Science and Business
 background, which means I think about data technically and commercially
